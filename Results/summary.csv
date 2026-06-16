@@ -1,0 +1,2 @@
+experience,accuracy,f1_macro,epochs,comment
+baseline,0.9317,0.9318,12,CNN léger (2xConv blocs)
